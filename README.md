@@ -33,7 +33,10 @@ Your application should have at least features in [Must have](#must-have), thing
 
 # Technical Requirements
 
-You can use any front-end library/framework like React, Angular, Vue, ... or just simple things with HTML + CSS + Javascript (JQuery).
+- You can use any front-end library/framework like React, Angular, Vue, ... or just simple things with HTML + CSS + Javascript (JQuery).
+- You can use any language that you comfortable with for back-end (Ruby, Java, PHP, ...) It a plus if you can use Ruby.
+- You can use MySQL, PostgresSQL, MongoDB or any databases.
+- Draw one flowchart diagram and one DB diagram for your project.
 
 - Products data:
   - [`./app/data/shoes.json`](./app/data/shoes.json)
